@@ -10,7 +10,7 @@ Neste cenário, utilizamos o SET para um ataque de phishing clonando a página
 facebook.com para capturar o email e senha:
 
 
-Coonfigurando para clonar a página:
+Configurando para clonar a página:
 
 ![alt text](34.png)
 
@@ -22,7 +22,7 @@ Digitando o email e senha:
 
 Redirecionado para a página verdadeira:
 
-![alt text](32.png)
+![alt text](33.png)
 
 Email e senha capturados:
 
